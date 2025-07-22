@@ -1,4 +1,6 @@
 use-b64.patch
+CVE-2024-25189-1.patch
+CVE-2024-25189-2.patch
 
 # do not add patches below
 zzz-gnutls-soname.patch
