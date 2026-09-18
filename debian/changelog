@@ -1,3 +1,10 @@
+libjwt (1.10.2-1+deb12u1) bookworm; urgency=medium
+
+  * CVE-2024-25189 (Closes: #1063534)
+    fix a timing side channel via strcmp()
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Mon, 19 Feb 2024 22:03:02 +0100
+
 libjwt (1.10.2-1) unstable; urgency=medium
 
   * New upstream release

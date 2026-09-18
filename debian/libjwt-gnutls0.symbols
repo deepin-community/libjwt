@@ -38,5 +38,6 @@ libjwt-gnutls.so.0 libjwt-gnutls0 #MINVER#
  jwt_sign_sha_hmac@Base 1.9.0
  jwt_sign_sha_pem@Base 1.9.0
  jwt_str_alg@Base 1.9.0
+ jwt_strcmp@Base 1.10.2
  jwt_verify_sha_hmac@Base 1.9.0
  jwt_verify_sha_pem@Base 1.9.0
